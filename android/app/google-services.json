@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486897877883",
+    "project_id": "ratingtask-f1853",
+    "storage_bucket": "ratingtask-f1853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486897877883:android:39a5ced404c5e56b3cf3de",
+        "android_client_info": {
+          "package_name": "com.ratingtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1GWwTu_HMRE_jcfgbVIzh-gajE6g-SZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
